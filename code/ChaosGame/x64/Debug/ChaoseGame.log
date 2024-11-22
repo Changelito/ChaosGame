@@ -1,0 +1,22 @@
+﻿  ChaosGame.cpp
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(60,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(60,73): warning C4244:         with
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(60,73): warning C4244:         [
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(60,73): warning C4244:             T=float
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(60,73): warning C4244:         ]
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(60,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(60,52): warning C4244:         with
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(60,52): warning C4244:         [
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(60,52): warning C4244:             T=float
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(60,52): warning C4244:         ]
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(64,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(64,71): warning C4244:         with
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(64,71): warning C4244:         [
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(64,71): warning C4244:             T=float
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(64,71): warning C4244:         ]
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(64,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(64,50): warning C4244:         with
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(64,50): warning C4244:         [
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(64,50): warning C4244:             T=float
+C:\Users\elger\source\repos\ChaosGame\code\ChaosGame.cpp(64,50): warning C4244:         ]
+  ChaoseGame.vcxproj -> C:\Users\elger\source\repos\ChaosGame\code\x64\Debug\ChaosGame.exe
